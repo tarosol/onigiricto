@@ -1,0 +1,196 @@
+Uri: https://onigiri.wtf/
+File Name: C:\Downloaded Web Sites\onigiri.wtf\index.htm
+Content Type: text/html
+
+Uri: https://onigiri.wtf/132a3b1f4e74c2e88065640447509e87.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\132a3b1f4e74c2e88065640447509e87.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/5b0021e3ce35f17674b0d537c972e9f0.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\5b0021e3ce35f17674b0d537c972e9f0.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/e1499239a8bdb71ca5689d7fde10733e.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\e1499239a8bdb71ca5689d7fde10733e.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/fonts/1060345c54d396e76d73f1da7ee200bd.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\1060345c54d396e76d73f1da7ee200bd.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/33696a29f45c1b554a4c12443b998d21.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\33696a29f45c1b554a4c12443b998d21.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/625cf32ea46ae48b58ebd3ff993de469.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\625cf32ea46ae48b58ebd3ff993de469.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/8dbae49e1280328b442be6dfff163124.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\8dbae49e1280328b442be6dfff163124.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/98c4d2c0223fc8474641c77f923528e9.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\98c4d2c0223fc8474641c77f923528e9.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/c69c23593c9bd5705c7780a200f2a6db.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\c69c23593c9bd5705c7780a200f2a6db.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/d257a7100844bc3f98c9021168b6249e.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\d257a7100844bc3f98c9021168b6249e.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/e5e43f51d6d7939d8911c861efa5f9b7.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\e5e43f51d6d7939d8911c861efa5f9b7.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/f4a4890561b3fddfd1fd9a1b27b6d4a4.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\f4a4890561b3fddfd1fd9a1b27b6d4a4.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/f8f199f09526f79e87644ed227e0f651.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\f8f199f09526f79e87644ed227e0f651.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/fonts/ff2d4c145684a92637b1d19a52bc7fb7.woff2
+File Name: C:\Downloaded Web Sites\onigiri.wtf\fonts\ff2d4c145684a92637b1d19a52bc7fb7.woff2
+Content Type: font/woff2
+
+Uri: https://onigiri.wtf/images/044e75939abf8d09cb84ae6348de5009.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\044e75939abf8d09cb84ae6348de5009.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/0b0254dea74096045d4bc05cea102400.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\0b0254dea74096045d4bc05cea102400.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/1e7218b2366be968aa1dd4b75360b4cc.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\1e7218b2366be968aa1dd4b75360b4cc.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/1f87d8cfd85164a09e0be35af08f8b32.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\1f87d8cfd85164a09e0be35af08f8b32.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/223fdf038ae3f12891a2b39443cec655.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\223fdf038ae3f12891a2b39443cec655.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/270488f0d929d2fda6f0c36e598aaad6.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\270488f0d929d2fda6f0c36e598aaad6.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/2b52f9407f65bb2f79909e53cce2930b.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\2b52f9407f65bb2f79909e53cce2930b.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/2f9a08d52480fa7633846c5b7546833e.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\2f9a08d52480fa7633846c5b7546833e.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/337dac6a2592e226833ca284d9b25fa8.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\337dac6a2592e226833ca284d9b25fa8.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/35fd7c9be1de2827ddb77f13becf2d53.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\35fd7c9be1de2827ddb77f13becf2d53.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/453bc95e5477de18998ad5910132988b.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\453bc95e5477de18998ad5910132988b.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/46cda74be73060a700d5aa4e0597f427.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\46cda74be73060a700d5aa4e0597f427.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/49c6e20798ef06e3095b8a4b12c40c6a.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\49c6e20798ef06e3095b8a4b12c40c6a.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/51d9d8ffa7959f693ec3e37e9fcbdb79.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\51d9d8ffa7959f693ec3e37e9fcbdb79.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/5952f9beeb8ff79522dc754707de5992.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\5952f9beeb8ff79522dc754707de5992.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/5b5a60189ea776c3bf8565453a329755.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\5b5a60189ea776c3bf8565453a329755.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/62e31e394558103a92da90a232e816cc.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\62e31e394558103a92da90a232e816cc.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/62f9c3d635c398e72a526d8e9c231f29.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\62f9c3d635c398e72a526d8e9c231f29.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/759ef256ee263bbda8d2ce994260fc48.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\759ef256ee263bbda8d2ce994260fc48.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/7b8f657b3e82efc30058a5918a9d3e79.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\7b8f657b3e82efc30058a5918a9d3e79.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/7d4c43c5b488479eac3bf5dd0bd0e72e.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\7d4c43c5b488479eac3bf5dd0bd0e72e.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/81deefae810cebad6a2305bc04a51814.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\81deefae810cebad6a2305bc04a51814.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/82cb80e74c57dd7c8b00f9cba050a4b5.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\82cb80e74c57dd7c8b00f9cba050a4b5.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/8bcc3c9c0748b6aee2077172f7d7fe88.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\8bcc3c9c0748b6aee2077172f7d7fe88.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/912944bb1140a616269195944d97e2fa.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\912944bb1140a616269195944d97e2fa.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/a16625872dfdb9f88b3f4f41d833b549.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\a16625872dfdb9f88b3f4f41d833b549.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/b3dc2b00bac9ac8eec8f0c441cca6017.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\b3dc2b00bac9ac8eec8f0c441cca6017.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/b90145a7a6b33d4d324226fdbfc76307.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\b90145a7a6b33d4d324226fdbfc76307.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/ba067d14168f182baaabfc4e183df00d.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\ba067d14168f182baaabfc4e183df00d.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/bada4c8078539eba2ddf3f6eddaf11c6.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\bada4c8078539eba2ddf3f6eddaf11c6.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/c2b8e92363fd56892166452fd5a04a43.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\c2b8e92363fd56892166452fd5a04a43.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/images/e0a3c9f99235cc26258c97d99954296d.png
+File Name: C:\Downloaded Web Sites\onigiri.wtf\images\e0a3c9f99235cc26258c97d99954296d.png
+Content Type: image/png
+
+Uri: https://onigiri.wtf/js/388fb330498371d4935abbff11d34d4c30842ca3c4a128cdd290d29db98acb41.js
+File Name: C:\Downloaded Web Sites\onigiri.wtf\js\388fb330498371d4935abbff11d34d4c30842ca3c4a128cdd290d29db98acb41.js
+Content Type: application/javascript
+
+Uri: https://onigiri.wtf/js/939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+File Name: C:\Downloaded Web Sites\onigiri.wtf\js\939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+Content Type: application/javascript
+
